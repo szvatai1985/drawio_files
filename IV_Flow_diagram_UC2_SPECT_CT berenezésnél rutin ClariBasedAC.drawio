@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-06-05T13:00:27.987Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="d3QdblJ3HjIPQq3aS6Jg" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2025-06-05T13:08:56.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="B84BF0BjV7CcmB1O76sG" version="24.5.3" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1323" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,8 +149,8 @@
         <mxCell id="XMgvpOPmqxMs5PxxD4ly-46" value="AC SPECT rekon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="1556" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-47" value="&lt;div&gt;Input: SPECT_RAW, CT_RECON&lt;/div&gt;&lt;div&gt;Output: SPECT_RECON_AC&lt;/div&gt;&lt;div&gt;Megjegyzés: prioritást élvezzen a CT_RECON_POSTCLARI-val szemben&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="475" y="1616" width="420" height="60" as="geometry" />
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-47" value="&lt;div&gt;Input: SPECT_RAW, CT_RECON&lt;/div&gt;&lt;div&gt;Output: SPECT_RECON_AC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="585" y="1626" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XMgvpOPmqxMs5PxxD4ly-48" value="Itt futhat 2 rekon egyszerre, vagy az egyiknek be kell fejeződni, hog ya másik indulhasson?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="1350" width="170" height="130" as="geometry" />
