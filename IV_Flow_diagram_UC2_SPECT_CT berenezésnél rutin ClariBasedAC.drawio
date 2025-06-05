@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2025-06-05T12:18:06.061Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="9PTvvbr6gpD-qEMQ2heK" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2025-06-05T12:52:01.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="rcQaxaNiXoIL_96iR-Vm" version="24.5.3" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="794" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,6 +34,9 @@
           <mxGeometry y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-7" value="Forrás:&amp;nbsp;&lt;a href=&quot;https://confluence.mediso.com/pages/viewpage.action?pageId=334987753&quot;&gt;InterView WorkFlow Server Intended Use - InterView Products - Confluence&lt;/a&gt;&lt;div&gt;&lt;div&gt;UC2: SPECT/CT berenezésnél rutin ClariBasedAC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="125" y="3" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
