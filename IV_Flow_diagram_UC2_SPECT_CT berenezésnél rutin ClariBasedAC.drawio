@@ -1,165 +1,155 @@
-<mxfile host="Electron" modified="2025-06-05T13:08:56.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="B84BF0BjV7CcmB1O76sG" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2025-06-12T09:08:31.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="ku4m8nKDTqouL5r36KcI" version="24.5.3" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1323" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1149" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-7" value="Forrás:&amp;nbsp;&lt;a href=&quot;https://confluence.mediso.com/pages/viewpage.action?pageId=334987753&quot;&gt;InterView WorkFlow Server Intended Use - InterView Products - Confluence&lt;/a&gt;&lt;div&gt;&lt;div&gt;UC2: SPECT/CT berenezésnél rutin ClariBasedAC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="125" y="3" width="470" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-8" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="840" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-9" value="páciens1 befekszik a kamerába" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-10" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XMgvpOPmqxMs5PxxD4ly-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="750" as="sourcePoint" />
-            <mxPoint x="410" y="710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-11" value="&lt;div&gt;operátor elindítja a&amp;nbsp;SPECT&amp;nbsp; gyűjtést&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="600" width="230" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-12" value="&lt;div&gt;operátor előkészíti a páciens2-t (adattok felvétele)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="840" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-13" value="Ez itt igaz, hogy nem kell a lépés végéig várni, hogy induljon a kövi?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="190" y="700" width="130" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-14" value="&lt;div&gt;Felvétel vége és az operátor betölti a reknsturált képeket, fúzionálja, stb: Ideális esetben a távozás előtt legyenek meg a rekon felvételek (3 percen belül, akár MPH-ra is) ellenőrzés céljából&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="960" width="250" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-15" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=12 12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="1070" as="sourcePoint" />
-            <mxPoint x="400" y="840" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-16" value="1, A &quot;Felvétel vége&quot; a második lépésben említett&amp;nbsp; gyűjtés + rekon?&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="810" width="140" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="188.57" y="1000" as="sourcePoint" />
-            <mxPoint x="188.57" y="700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-18" value="A lépés lehet, hogy tovább tart" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="135" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-19" value="Kérdés" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-0" value="Kérdés" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="30" y="110" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-20" value="Lépés" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-1" value="Lépés" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-21" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XMgvpOPmqxMs5PxxD4ly-20">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-2" value="A lépés lehet, hogy tovább tart" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-3" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="140" y="380" as="sourcePoint" />
-            <mxPoint x="140" y="310" as="targetPoint" />
+            <mxPoint x="69.5" y="450" as="sourcePoint" />
+            <mxPoint x="69.5" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-22" value="Ez jelöli, hogy ezen lépés&amp;nbsp;&lt;div&gt;vége triggereli a kövi lépést&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XMgvpOPmqxMs5PxxD4ly-21">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-4" value="Ez jelöli, hogy ezen lépés&amp;nbsp;&lt;div&gt;vége triggereli a kövi lépést&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XMgvpOPmqxMs5PxxD4ly-3" vertex="1" connectable="0">
           <mxGeometry y="-3" relative="1" as="geometry">
-            <mxPoint x="-3" y="20" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-23" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-5" value="" style="endArrow=none;html=1;rounded=0;dashed=1;dashPattern=12 12;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="260" y="500" as="sourcePoint" />
-            <mxPoint x="255" y="200" as="targetPoint" />
+            <mxPoint x="70" y="660" as="sourcePoint" />
+            <mxPoint x="69" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-24" value="Ez jelöli, ugyanaz,&amp;nbsp;&lt;div&gt;mint a teli vonal,&amp;nbsp;&lt;div&gt;csak a szaggatott&amp;nbsp;&lt;/div&gt;&lt;div&gt;dobozokhoz tartozóan.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A &quot;lehet, hogy tovább&amp;nbsp;&lt;/div&gt;&lt;div&gt;tart&quot; lépés vége,&amp;nbsp;&lt;/div&gt;&lt;div&gt;ami triggeli a kövi lépést&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="XMgvpOPmqxMs5PxxD4ly-23">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-6" value="Ez jelöli, ugyanaz,&amp;nbsp;&lt;div&gt;mint a teli vonal,&amp;nbsp;&lt;div&gt;csak a szaggatott&amp;nbsp;&lt;/div&gt;&lt;div&gt;dobozokhoz tartozóan.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;A &quot;lehet, hogy tovább&amp;nbsp;&lt;/div&gt;&lt;div&gt;tart&quot; lépés vége,&amp;nbsp;&lt;/div&gt;&lt;div&gt;ami triggeli a kövi lépést&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="XMgvpOPmqxMs5PxxD4ly-5" vertex="1" connectable="0">
           <mxGeometry y="-3" relative="1" as="geometry">
-            <mxPoint x="-5" y="70" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-25" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="430" y="1280" width="200" height="60" as="geometry" />
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-7" value="Forrás:&amp;nbsp;&lt;a href=&quot;https://confluence.mediso.com/pages/viewpage.action?pageId=334987753&quot;&gt;InterView WorkFlow Server Intended Use - InterView Products - Confluence&lt;/a&gt;&lt;div&gt;&lt;div&gt;UC2: SPECT/CT berenezésnél rutin ClariBasedAC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="125" y="3" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-26" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="420" y="1210" width="360" height="60" as="geometry" />
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-9" value="páciens1 befekszik a kamerába" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-27" value="Szerintem így van, de ez nem biztos" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="1120" width="720" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-29" value="Páciens1 távozik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="1210" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-31" value="NonAC SPECT Rekon elindul" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="1280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-32" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-10" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="XMgvpOPmqxMs5PxxD4ly-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="790" y="2060" as="sourcePoint" />
-            <mxPoint x="790" y="1690" as="targetPoint" />
+            <mxPoint x="140" y="930" as="sourcePoint" />
+            <mxPoint x="410" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-33" value="Rekon vége, operátor betölti a reknsturált képeket, fúzionálja, stb: Ideális esetben a távozás előtt legyenek meg a rekon felvételek (3 percen belül, akár MPH-ra is) ellenőrzés céljából" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="790" y="1750" width="220" height="110" as="geometry" />
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-11" value="&lt;div&gt;operátor elindítja a&amp;nbsp;SPECT&amp;nbsp; gyűjtést&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="780" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-34" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-12" value="&lt;div&gt;operátor előkészíti a páciens2-t (adattok felvétele)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="190" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-17" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010" y="1970" as="sourcePoint" />
-            <mxPoint x="1010" y="1750" as="targetPoint" />
+            <mxPoint x="188.57" y="1180" as="sourcePoint" />
+            <mxPoint x="188.57" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-35" value="&lt;div&gt;Páciens 2 befekszik a kamerába&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="1850" width="120" height="60" as="geometry" />
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-0" value="Páciens1 távozik" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="1760" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-36" value="output: SPECT_RAW" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="570" width="140" height="30" as="geometry" />
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-1" value="NonAC SPECT Rekon&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="189" y="1264" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-37" value="&lt;b&gt;NonAC SPECT recon&lt;/b&gt;&lt;div&gt;&lt;div&gt;input: SPECT_RAW&lt;/div&gt;&lt;div&gt;output: SPECT_RECON_NAC&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="1340" width="190" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-38" value="CT gyűjtés" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="1424" width="100" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-39" value="&lt;div&gt;output: CT_RAW&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="1488" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-40" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="1644" as="sourcePoint" />
-            <mxPoint x="470" y="1424" as="targetPoint" />
+            <mxPoint x="609" y="1754" as="sourcePoint" />
+            <mxPoint x="609" y="1384" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-41" value="CT rekon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="1490" width="140" height="66" as="geometry" />
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-3" value="Rekon vége, operátor betölti a reknsturált képeket, fúzionálja, stb: Ideális esetben a távozás előtt legyenek meg a rekon felvételek (3 percen belül, akár MPH-ra is) ellenőrzés céljából" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="1520" width="220" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-42" value="&lt;div&gt;input: CT_RAW&lt;/div&gt;&lt;div&gt;outut: CT_RECON&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="1556" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-43" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-4" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="1790" as="sourcePoint" />
-            <mxPoint x="610" y="1488" as="targetPoint" />
+            <mxPoint x="1010" y="1740" as="sourcePoint" />
+            <mxPoint x="1010" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-44" value="&lt;div&gt;Clari postfilter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="1690" width="180" height="60" as="geometry" />
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-5" value="&lt;div&gt;Páciens 2 befekszik a kamerába&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-45" value="&lt;div&gt;Input: CT_RECON&lt;/div&gt;&lt;div&gt;Output: CT_RECON_POSTCLARI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="1754" width="210" height="40" as="geometry" />
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-6" value="CT gyűjtés" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="189" y="1118" width="100" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-46" value="AC SPECT rekon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="1556" width="120" height="60" as="geometry" />
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-7" value="&lt;div&gt;output: CT_RAW&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="184" y="1182" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-47" value="&lt;div&gt;Input: SPECT_RAW, CT_RECON&lt;/div&gt;&lt;div&gt;Output: SPECT_RECON_AC&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="585" y="1626" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-48" value="Itt futhat 2 rekon egyszerre, vagy az egyiknek be kell fejeződni, hog ya másik indulhasson?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="510" y="1350" width="170" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-49" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-8" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="1996.6666666666667" as="sourcePoint" />
-            <mxPoint x="369" y="600" as="targetPoint" />
+            <mxPoint x="289" y="1384" as="sourcePoint" />
+            <mxPoint x="289" y="1118" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-9" value="CT rekon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="289" y="1184" width="140" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-10" value="&lt;div&gt;input: CT_RAW&lt;/div&gt;&lt;div&gt;outut: CT_RECON&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="289" y="1250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-11" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="429" y="1484" as="sourcePoint" />
+            <mxPoint x="429" y="1182" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-12" value="&lt;div&gt;Clari postfilter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="429" y="1384" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-13" value="&lt;div&gt;Input: CT_RECON&lt;/div&gt;&lt;div&gt;Output: CT_RECON_POSTCLARI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="389" y="1448" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-14" value="AC SPECT rekon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="429" y="1250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-15" value="&lt;div&gt;Input: SPECT_RAW, CT_RECON&lt;/div&gt;&lt;div&gt;Output: SPECT_RECON_AC&lt;/div&gt;&lt;div&gt;Megjegyzés: prioritást élvezzen a CT_RECON_POSTCLARI-val szemben&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="294" y="1310" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-16" value="2 operátor esetén a Páciens 2 előbb befekhet a kamerába" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-18" value="&lt;div&gt;Clari postfilter&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="610" y="1444" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-19" value="&lt;div&gt;Input: CT_RECON&lt;/div&gt;&lt;div&gt;Output: CT_RECON_POSTCLARI&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="570" y="1508" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-21" value="Ez a scenario abban különbözik az előzőtől, hogy itt több clari post filter is intható?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="609" y="1360" width="150" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-22" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="1814" as="sourcePoint" />
+            <mxPoint x="790" y="1444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMKyC4_Pnx9iGbfY_SvJ-23" target="tMKyC4_Pnx9iGbfY_SvJ-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tMKyC4_Pnx9iGbfY_SvJ-23" target="tMKyC4_Pnx9iGbfY_SvJ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-23" value="Ezek közül egyszerre csak az egyik futhat.&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="104" y="1212" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="tMKyC4_Pnx9iGbfY_SvJ-26" value="Ezt majd alakítsd át az UC1-gyel analógra" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="115" y="918" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
