@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2025-06-12T11:34:57.055Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="BNXBAlOXJnYz959qYuvV" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2025-06-24T08:22:32.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="KP298a6aNBXmhPUZkYO4" version="24.5.3" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2647" dy="1857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -16,7 +16,7 @@
             <mxPoint x="410" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-11" value="&lt;div&gt;operátor elindítja a&amp;nbsp;SPECT&amp;nbsp; gyűjtést&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-11" value="&lt;div&gt;operátor elindítja a&amp;nbsp;NM&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;gyűjtést&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="140" y="600" width="230" height="100" as="geometry" />
         </mxCell>
         <mxCell id="XMgvpOPmqxMs5PxxD4ly-12" value="&lt;div&gt;operátor előkészíti a páciens2-t (adattok felvétele)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -76,7 +76,7 @@
             <mxPoint x="909.13" y="1916" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XMgvpOPmqxMs5PxxD4ly-33" value="Rekon vége, operátor betölti a reknsturált képeket, fúzionálja, stb: Ideális esetben a távozás előtt legyenek meg a rekon felvételek (3 percen belül, akár MPH-ra is) ellenőrzés céljából" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="XMgvpOPmqxMs5PxxD4ly-33" value="&lt;div&gt;Nucline-on történik&lt;/div&gt;Rekon vége, operátor betölti a reknsturált képeket, fúzionálja, stb: Ideális esetben a távozás előtt legyenek meg a rekon felvételek (3 percen belül, akár MPH-ra is) ellenőrzés céljából" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="909.13" y="2020" width="220" height="110" as="geometry" />
         </mxCell>
         <mxCell id="XMgvpOPmqxMs5PxxD4ly-34" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
@@ -261,6 +261,12 @@
         </mxCell>
         <mxCell id="IwbbAKYiuSTTEU75mQo1-28" value="Itt nem feltétlenül azt kell gondolni, hogy egyből leveszik az asztalról a pácienst, mert ha valami gond volt gyűjtés közben, akkor maradjon meg a fekvés, pozíció, stb" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="257" y="1326" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2tVBK2732rvhwuRrcThH-0" value="Ehhez MINDIG kell a CT rekon (mindegy, hogy syntetic, vagy igazi)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="729.13" y="1585" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2tVBK2732rvhwuRrcThH-1" value="Az NM gyűjtés lehet SPECT, Gated vagy dynamic&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="550" width="150" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
