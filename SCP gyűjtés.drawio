@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2025-06-24T08:59:42.093Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="Dur3DqXVj1_G_UWvybCM" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2025-06-26T15:09:37.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="-wOqaYMRfH0xGtlpx9ZG" version="24.5.3" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="794" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1312" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -277,28 +277,34 @@
             <mxPoint x="359.33000000000004" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-0" value="opció 1 - a CT húzza a PET adatait, hogy kvantáltan helyes legyen" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-0" value="opció 1 - a CT húzza a PET adatait, hogy kvantáltan helyes legyen" style="ellipse;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="370" y="600" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-1" value="PET gyűjtés" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-1" value="PET gyűjtés" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="570" y="1080" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-2" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="1240" as="sourcePoint" />
             <mxPoint x="600" y="1146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-4" value="3.lépés" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZG5pXz5VgUuZvuVR2EHA-2">
+        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-4" value="3.lépés" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ZG5pXz5VgUuZvuVR2EHA-2" vertex="1" connectable="0">
           <mxGeometry x="0.6028" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-5" value="PET rekon" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-5" value="PET rekon" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="601" y="1172" width="99" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-7" value="Automatiokusan induló lépés" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ZG5pXz5VgUuZvuVR2EHA-7" value="Automatiokusan induló lépés" style="triangle;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="320" y="120" width="99" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4Il9c6ceVNq26_OjT13I-0" value="2 operátor esetén a Páciens 2 előbb befekhet a kamerába" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1353.13" y="2188" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4Il9c6ceVNq26_OjT13I-1" value="Megjegyzés: prioritást élvezzen a CT_RECON_POSTCLARI-val szemben" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="699" y="1364" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
