@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2025-07-03T12:03:37.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="ISQH0d-uNjLn1EIV0qpg" version="24.5.3" type="device">
+<mxfile host="Electron" modified="2025-07-04T11:57:49.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="pAQjMIdNbUWm1lrHkffR" version="24.5.3" type="device">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1861" dy="1726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2023" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -25,7 +25,7 @@
         <mxCell id="IYe1x_l81o_t5eEBqxim-4" value="Test 3&amp;nbsp;- v3 - img1, img2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="190" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IYe1x_l81o_t5eEBqxim-6" value="Futtató&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-lefuttatja a teszteket, passed/failed eredményt ad nekik&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-regisztrálja a futtatás időpontját&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="IYe1x_l81o_t5eEBqxim-6" value="Futtató&lt;span style=&quot;background-color: initial;&quot;&gt;:&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-lefuttatja a teszteket (&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kiolvassa az ID-kat a protokollból, és az összes tesztet tartalmazó mappából lefuttatja Őket),&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-A passed/failed eredményeket &quot;Megjegyzi&quot;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-regisztrálja a futtatás időpontját&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="-210" width="260" height="270" as="geometry" />
         </mxCell>
         <mxCell id="IYe1x_l81o_t5eEBqxim-7" value="Futtatás 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
